@@ -9,7 +9,10 @@
 
 # 📄 Task Description  
 
-For this task, you will practice implementing **Machine Learning algorithms from scratch using NumPy** and visualizing results using **Matplotlib**.  
+
+For this task, you will practice implementing Machine Learning algorithms from scratch using **NumPy**,
+loading and preprocessing data using **Pandas**, and visualizing results using **Matplotlib**.
+
 There is **no separate report** for this task.  
 
 You are required to complete two sub-tasks — **Linear Regression** and **Logistic Regression**.
