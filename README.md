@@ -1,5 +1,6 @@
 # Task3-Machine_Learning
 
+
 <p align="center">
   <img src="https://tse2.mm.bing.net/th/id/OIP.eHw1op1IxpRJ9g5ylzIncQHaEH?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Machine Learning Logo" width="500"/>
 </p>
@@ -18,19 +19,23 @@ You are required to complete two sub-tasks — **Linear Regression** and **Logis
 ## 🧠 Task 1: Linear Regression  
 
 ### 🎯 Objective  
-Predict **Student Exam Performance** using Linear Regression.  
 
-You are given a dataset `student_exam_scores.csv` containing information about students’ study habits, attendance, and previous academic performance.  
-Your goal is to build a model that predicts the final exam score based on these factors.  
+Predict **Housing Prices** using Linear Regression.
+
+You are given a dataset housing.csv that contains information about different California housing blocks such as location, population, median income, and housing characteristics.
+
+Your goal is to build a Linear Regression model from scratch that predicts the median house value based on multiple input features.
 
 ---
 
 ## 🧠 Task 2: Logistic Regression  
 
 ### 🎯 Objective  
-Develop a predictive model to determine whether a patient is likely to have **heart disease** based on medical parameters.  
 
-You are given the dataset `Medicaldataset.csv` containing various physiological and biochemical measurements.  
+Predict whether a patient is likely to have Diabetes using Logistic Regression.
+
+You are given a dataset medical_patient_data.csv containing patient demographic, lifestyle, and health-related information.
+Your task is to build a Logistic Regression model from scratch to predict the likelihood of diabetes
 
 
 ## 🛠️ Folder Structure  
