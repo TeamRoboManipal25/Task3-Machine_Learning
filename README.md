@@ -9,6 +9,8 @@
 
 # 📄 Task Description  
 
+👉 One PDF guides will be provided:
+- [Second Year Pdf](task3_second_year.pdf) → Contains the questions regarding Linear and Logistic Regression.
 
 For this task, you will practice implementing Machine Learning algorithms from scratch using **NumPy**,
 loading and preprocessing data using **Pandas**, and visualizing results using **Matplotlib**.
@@ -37,7 +39,7 @@ Your goal is to build a Linear Regression model from scratch that predicts the m
 
 Predict whether a patient is likely to have Diabetes using Logistic Regression.
 
-You are given a dataset medical_patient_data.csv containing patient demographic, lifestyle, and health-related information.
+You are given a dataset diabetes_dataset.csv containing patient demographic, lifestyle, and health-related information.
 Your task is to build a Logistic Regression model from scratch to predict the likelihood of diabetes
 
 
