@@ -10,7 +10,7 @@
 # 📄 Task Description  
 
 👉 One PDF guides will be provided:
-- [Second Year Pdf](task3_second_year.pdf) → Contains questions regarding Linear and Logistic Regression.
+- [Second Year Pdf](Task3/task3_second_year.pdf) → Contains questions regarding Linear and Logistic Regression.
 
 For this task, you will practice implementing Machine Learning algorithms from scratch using **NumPy**,
 loading and preprocessing data using **Pandas**, and visualizing results using **Matplotlib**.
