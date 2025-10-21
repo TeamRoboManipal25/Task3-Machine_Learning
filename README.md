@@ -67,7 +67,7 @@ YourRepoName/
 * [NumPy Documentation](https://numpy.org/doc/)  
 * [Matplotlib Documentation](https://matplotlib.org/stable/users/index.html)
 * [Pandas Documentation](https://pandas.pydata.org/docs/)
-* [Machine Learning Playlist]([https://youtu.be/vStJoetOxJg?si=J6m5kETByoaxGrkD](https://www.youtube.com/watch?v=vStJoetOxJg&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI))  
+* [Machine Learning Playlist](https://www.youtube.com/watch?v=vStJoetOxJg&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI)  
 
 ---
 
